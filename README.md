@@ -3,7 +3,10 @@ cgminer-gc3355
 
 CGMiner 3.72 with GridSeed GC3355 support
 
+```
 ./configure --enable-scrypt --enable-gridseed
+
+```
 
 GC3355-specific options can be specified via --gridseed-options or
 "gridseed-options" in the configuration file as a comma-separated list of
